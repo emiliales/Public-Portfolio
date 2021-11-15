@@ -12,3 +12,5 @@ Check out articles that I have contributed to:
 https://support.mozilla.org/en-US/kb/where-find-and-manage-downloaded-files-firefox
 * History of Web Push notifications in Firefox
 https://support.mozilla.org/en-US/kb/push-notifications-firefox
+* Website will not allow Firefox to display the page if another site has embedded it
+https://support.mozilla.org/en-US/kb/xframe-neterror-page
